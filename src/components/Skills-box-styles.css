@@ -1,0 +1,27 @@
+.skills-box-item {
+    background-color: #6c89f2;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px 0 rgb(236, 221, 221);
+    transition: all 1s;
+    color:white;
+    padding:19px;
+    margin: 20px 10px;
+    width: 392px;
+  }
+  
+  .skills-box-item:hover {
+    box-shadow: 0 8px 16px 0 rgb(119, 111, 111);
+  }
+  .skills-box-item > h1 {
+    margin: 0px 0px 5px 0px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+  }
+  .skills-box-item > p {
+    text-align: center;
+    font-size: 20px;
+  }
+  
