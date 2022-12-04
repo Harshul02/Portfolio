@@ -6,7 +6,7 @@ import ProjectBox from "./Project-box";
 function Project()
 {
     return (<div id="Project">
-        <h1>PROJECT</h1>
+        <h1>PROJECTS</h1>
          <div className="Projects">
         {data.map(({Title, Live, Source_code, Image_url})=>{
             return(
