@@ -24,7 +24,7 @@ function Header()
                 <br/>
                 <p style={{wordSpacing: "3px"}}>I'm a  Developer.I have knowledge of Data Structures and Algorithms. I work on technologies including React.js, Express.js, Node.js, MongoDB etc.</p>
                 <br/>
-                <button class="button"><a href="https://drive.google.com/file/d/1KWKQzHpJDM0pY9apkJMEg9G5NGjSo9E1/view?usp=sharing" download={"Harshul Resume"}>Get Resume</a></button>
+                <button class="button"><a href="https://drive.google.com/file/d/1KWKQzHpJDM0pY9apkJMEg9G5NGjSo9E1/view?usp=share_link" download={"Harshul Resume"}>Get Resume</a></button>
             </div>
 
         </div>
